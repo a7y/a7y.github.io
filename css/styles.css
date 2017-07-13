@@ -1,0 +1,16 @@
+#wrapper {
+  max-width: 75%;
+}
+
+.profile #avatar {
+    display: inline-block;
+    width: 164px;
+    height: 128px;
+    border-radius: 0;
+}
+
+#post-meta img.avatar {
+  width: 84px;
+  height: 72px;
+  border-radius: 0;
+}
